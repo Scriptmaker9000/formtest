@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    border:none;
+    font-weight:bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color:chartreuse;
+
+}
+input{
+border: none;
+border-bottom: 2px solid black;
+margin: 3px;
+}
+
+form{
+    text-align: center;
+    
+}
+
+.Holder{
+        text-align: center;
+     
+        border-radius: 20px;
+        margin: auto;
+}
+
+.sub{
+    height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 60px;
+    border:none;
+    background-color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+
+}
+
+.FormCheck{
+    width: 10%;
+}
+.BirthC{
+    font-weight:bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
